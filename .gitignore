@@ -59,3 +59,10 @@ typings/
 
 # next.js build output
 .next
+
+# VSCODE
+.vs
+.vscode
+
+# history files from code extension
+.history
