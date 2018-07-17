@@ -66,3 +66,5 @@ typings/
 
 # history files from code extension
 .history
+
+yarn.lock
