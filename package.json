@@ -1,0 +1,9 @@
+{
+  "name": "emailCrawler",
+  "version": "1.0.0",
+  "description": "A email crawler ( scrapper ) i made to gather emails from random websites based on (tags) using my raspberry pi",
+  "main": "app.js",
+  "repository": "git@github.com:robiXxu/emailCrawler.git",
+  "author": "Schiriac Robert <schiriac.robert@gmail.com>",
+  "license": "MIT"
+}
