@@ -5,5 +5,15 @@
   "main": "app.js",
   "repository": "git@github.com:robiXxu/emailCrawler.git",
   "author": "Schiriac Robert <schiriac.robert@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.6.1",
+    "cheerio": "^1.0.0-rc.2",
+    "email-crawler": "^1.0.4",
+    "google": "^2.1.0",
+    "lodash": "^4.17.10"
+  },
+  "scripts": {
+    "app": "node app.js"
+  }
 }
