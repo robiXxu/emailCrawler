@@ -68,3 +68,5 @@ typings/
 .history
 
 yarn.lock
+
+output/*
