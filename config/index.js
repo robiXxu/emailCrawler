@@ -4,5 +4,8 @@ module.exports = extend(
   {},
   require('./google'),
   require('./tags'),
-  require('./storage')
+  require('./crawler'),
+  require('./storage'),
+  require('./regex'),
+  require('./rules')
 );

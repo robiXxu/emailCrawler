@@ -5,6 +5,10 @@ const tags = {
     "recruiter",
     "nodejs",
     "react"
+  ],
+  "wordpress": [
+    "wordpress jobs",
+    "freelancer wordpress"
   ]
 };
 

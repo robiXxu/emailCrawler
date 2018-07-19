@@ -1,5 +1,5 @@
 const google = {
-  resultsPerPage    :   5,
+  resultsPerPage    :   10,
   lang              :   'ro',
   tld               :   'ro'
 };

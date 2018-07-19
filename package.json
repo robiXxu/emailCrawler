@@ -10,10 +10,13 @@
     "async": "^2.6.1",
     "cheerio": "^1.0.0-rc.2",
     "email-crawler": "^1.0.4",
+    "email-validator": "^2.0.4",
     "google": "^2.1.0",
-    "lodash": "^4.17.10"
+    "lodash": "^4.17.10",
+    "node-web-crawler": "^0.0.6"
   },
   "scripts": {
-    "app": "node app.js"
+    "app": "node app.js",
+    "dev": "nodemon app.js"
   }
 }

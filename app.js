@@ -11,9 +11,7 @@ const core = require('./core')({
 });
 
 
-//run this function after firebase is added when a new set of tags is added
 const run = () => {
-
   const func = [];
 
   Object.keys(config.tags).forEach(key => {
@@ -35,12 +33,9 @@ const run = () => {
     func,
     (error) => {
       console.log('done', error);
+      process.exit(0); 
     }
   );
 }
 
 run();
-
-// 
-// Check gather alternatives ... 
-// 
